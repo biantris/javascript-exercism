@@ -1,4 +1,5 @@
 ### Instructions
+
 Lucian's girlfriend is on her way home and he hasn't cooked their anniversary dinner!
 
 In this exercise, you're going to write some code to help Lucian cook an exquisite lasagna from his favorite cook book.
@@ -24,11 +25,9 @@ preparationTimeInMinutes(2);
 // => 4
 ```
 4. Calculate the total working time in minutes
-
 Implement the `totalTimeInMinutes` function that takes two parameters: the `numberOfLayers` parameter is the number of layers you added to the lasagna, and the `actualMinutesInOven` parameter is the number of minutes the lasagna has been in the oven. The function should return how many minutes in total you've worked on cooking the lasagna, which is the sum of the preparation time in minutes, and the time in minutes the lasagna has spent in the oven at the moment.
 
 ```js
 totalTimeInMinutes(3, 20);
 // => 26
 ```
-### Solution
