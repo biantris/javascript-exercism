@@ -9,4 +9,4 @@ JavaScript Exercism
 #### See in the [exercism track javaScript](https://exercism.org/tracks/javascript)
 
 - [Exercises](./)
-- [Concepts](./)
+- [Concepts](https://github.com/biantris/javascript-exercism/blob/master/concepts/concepts.md)
