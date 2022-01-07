@@ -3,3 +3,7 @@ Concepts
 </h1>
 
 - [Basics](https://github.com/biantris/javascript-exercism/blob/master/concepts/basics/basics.md)
+- [Numbers]()
+- [Arithmetic Operators]()
+- [Strings]()
+- [Booleans]()
